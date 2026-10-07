@@ -1,0 +1,30 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "fx110.com",
+        "jina.ai",
+        "fxreplay.com",
+        "fastbull.com",
+        "tradingriot.com",
+        "openrouter.ai",
+        "jellyfin.org",
+        "opensubtitles.com",
+        "staticfile.org",
+        "jeniya.cn",
+        "tmgm.com",
+        "spamhaus.org",
+        "abuse.ch",
+        "dan.me.uk",
+        "opencode.ai",
+        "aihubmix.com",
+        "crush91.cc",
+        "agentrouter.org",
+        "luxalgo.com",
+        "xn--9kqz23b19z.com",
+        "chargebeestaticv2.com"
+      ]
+    }
+  ]
+}

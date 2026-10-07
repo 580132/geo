@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "dns.google",
+        "cloudflare-dns.com",
+        "dns.quad9.net",
+        "doh.opendns.com",
+        "dns.adguard-dns.com",
+        "protective.joindns4.eu"
+      ]
+    }
+  ]
+}
